@@ -79,7 +79,7 @@
 1. Клонировать репозиторий
 2. Скачать данные по ссылке выше и поместить в папку `data/`
 3. Установить зависимости при необходимости
-4. Запустить Jupyter Notebook: `jupyter notebook notebooks/analysis.ipynb`
+4. Запустить Jupyter Notebook: `sber-auto-subscription-analysis.ipynb`
 
 ---
 
