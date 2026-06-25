@@ -8,7 +8,6 @@ venv/
 ENV/
 
 .ipynb_checkpoints/
-*.ipynb
 
 data/
 *.csv
