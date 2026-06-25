@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+.Python
+*.so
+build/
+.venv/
+venv/
+ENV/
+
+.ipynb_checkpoints/
+*.ipynb
+
+data/
+*.csv
+*.xlsx
+*.rar
+*.zip
+*.7z
+
+.DS_Store
+Thumbs.db
